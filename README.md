@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+### Welcome to StackOverflowStats for Julia!
+This page contains permalinks to various Stack Exchange queries so anyone can see the growth of Julia on Stack Overflow. 
 
-You can use the [editor on GitHub](https://github.com/JuliaCommunity/StackOverflowStats/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- [Number of questions per month, for each month since 2010](https://data.stackexchange.com/stackoverflow/query/1114914/julia#graph)
+- [Score per question](https://data.stackexchange.com/stackoverflow/query/1266217/julia#graph)
+- [Sum of the score](https://data.stackexchange.com/stackoverflow/query/1266219/julia-sum-of-the-score-of-questions#graph)
+- [Average Time From Question til Accepted answer was posted](https://data.stackexchange.com/stackoverflow/query/1266221/julia-average-time-from-question-til-accepted-answer-was-posted)
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JuliaCommunity/StackOverflowStats/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Feel free to open PR's if you are a SQL pro or have relevant queries to add.
